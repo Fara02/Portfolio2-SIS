@@ -150,7 +150,7 @@ text-align: center;
     <h1 class="Introduction"> Fara Saru Magar</h1>
     <p class= "designation"> Budhanilkantha School, Kathmandu </p>
 
-    <a href="di.html"><div id="in"> HOME </div></a>
+    <a href="index.html"><div id="in"> HOME </div></a>
     <a href="gallery.html"><div id="gallery"> MY GALLERY </div></a>
     <a href="articles.html"><div id="articles"> ARTICLES </div></a>
     <a href="contact.html"><div id="con"> CONTACT ME </div></a><br><br>
