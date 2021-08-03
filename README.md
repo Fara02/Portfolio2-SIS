@@ -153,7 +153,7 @@ text-align: center;
     <a href="di.html"><div id="in"> HOME </div></a>
     <a href="gallery.html"><div id="gallery"> MY GALLERY </div></a>
     <a href="articles.html"><div id="articles"> ARTICLES </div></a>
-    <a href="contact.html"><div id="con"> CONTACT ME</div></a><br><br>
+    <a href="contact.html"><div id="con"> CONTACT ME </div></a><br><br>
 
     <br> <br>
     
